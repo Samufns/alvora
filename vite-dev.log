@@ -1,0 +1,16 @@
+
+> alvora@1.0.0 dev
+> vite --host 0.0.0.0 --port 5173
+
+
+  VITE v8.2.2  ready in 776 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.167:5173/  Ethernet
+12:57:42 [vite] (client) hmr update /src/style.css
+13:01:41 [vite] (client) page reload index.html
+13:02:32 [vite] (client) page reload index.html
+13:02:50 [vite] (client) page reload index.html
+13:03:12 [vite] (client) page reload index.html
+13:03:42 [vite] (client) hmr update /src/style.css
+13:05:50 [vite] (client) page reload index.html

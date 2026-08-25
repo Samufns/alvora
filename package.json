@@ -1,0 +1,28 @@
+{
+  "name": "alvora",
+  "version": "1.0.0",
+  "description": "Starter para criar sites com HTML, Tailwind CSS e JavaScript.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samufns/alvora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samufns/alvora/issues"
+  },
+  "homepage": "https://github.com/Samufns/alvora#readme",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.2.2"
+  }
+}
